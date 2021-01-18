@@ -1,1 +1,2 @@
 # Gierka
+Zobaczmy, czy działa
